@@ -1,0 +1,5 @@
+s=set()
+s.add(53)
+s.add(53.0)
+s.add('53')
+print(len(s))

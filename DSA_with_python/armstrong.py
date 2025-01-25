@@ -1,5 +1,5 @@
 
-def fun(n):
+def fun(n): 
     num=n
     t=0
     l=len(str(num))

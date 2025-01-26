@@ -1,1 +1,1 @@
-Enter a number
+num
